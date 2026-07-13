@@ -35,5 +35,5 @@ A 3rd Year Applied Computer Science student specializing in Data Science
 
 ### ⚡ Fun fact:
 -🌧️ I prefer rainy weather over hot sunny days.
--🎵 Headphones over speakers?
+-🎵 Headphones over speakers
 -🌅 Sunsets and Sunrises are the same to me 
